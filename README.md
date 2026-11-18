@@ -1,19 +1,23 @@
-# AI2_FA-AGE
+# AI2_FAÇAGE
 Modelo de predicción de edad usando la cara de una persona
 
-Aquí se alojarán los modelos, notebooks y presentaciones correspondientes a las entregas 2 y 3 del proyecto Façage de Jefferson Andres Lipez Pinzón, el notebook titulado IA2Proyecto_Entrega3_Final corresponde al notebook que se entregará como trabajo final del proyecto, los titulados IA2Proyecto corresponde a la entrega 2 y IA2Proyecto_Entrega3 corresponde a la entrega 3 (desordenado pero conserva los resultados reportados en la presentación 3)
+Aquí se alojarán los modelos, notebooks y presentaciones correspondientes a las entregas 2 y 3 del proyecto Façage de Jefferson Andres Lipez Pinzón.
+
+El notebook titulado IA2Proyecto_Entrega3_Final corresponde al notebook que se entregará como trabajo final del proyecto.
+
+En la carpeta de NotebookPresentaciones se conservan los notebooks usados para la creación de las presentaciones 2 y 3, no fueron incluidos para evaluarse, sino para demostrar los que los resultados reportados en los avances 2 y 3 fueron legitimos
+
+La carpeta de Modelos aloja tres modelos:
+
+- modelface (2) es el modelo resultante del avance 2 del proyecto
+- modelface_transfer_learning es un modelo no reportado del avance 3, se utilizó para la generación de mapas de calor reportados en este avance por lo que decidí incluirlo
+- VGGFace con fine-tunning es un enlace para descargar el modelo VGGFace de DeepFace reportado en el avance 3 por drive
+
+Finalmente la carpeta de Presentaciones conserva las diapositivas usadas para presentar los avances 2 y 3 
 
 Enlaces del proyecto:
-Enlace para el notebook COLAB (Parte 2) https://colab.research.google.com/drive/1UDU4r0DtigVZqHLLAGOfitvHegGKdkVk?usp=sharing
-
-Enlace para el notebook COLAB (Entrega 3) https://colab.research.google.com/drive/1ijIMouucQYZpP-sIfGzTK-J0e6LeUx91?usp=sharing
-
-
 Enlace para el dataset UTKFace: https://www.kaggle.com/datasets/jangedoo/utkface-new
 
 Enlace para el dataset facial-age https://www.kaggle.com/datasets/frabbisw/facial-age/data
 
-
-Enlace diapositivas entrega 2: https://canva.link/78jvjim30oxoqgc
-
-Enlace diapositivas entrega 3: https://canva.link/9v5v9h1wic42rg5
+Enlace para el Notebook Entrega Final (solo Lector): https://colab.research.google.com/drive/1ijIMouucQYZpP-sIfGzTK-J0e6LeUx91?usp=sharing
