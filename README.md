@@ -3,7 +3,7 @@ Modelo de predicción de edad usando la cara de una persona
 
 Aquí se alojarán los modelos, notebooks y presentaciones correspondientes a las entregas 2 y 3 del proyecto Façage de Jefferson Andres Lipez Pinzón.
 
-El notebook titulado IA2Proyecto_Entrega3_Final corresponde al notebook que se entregará como trabajo final del proyecto.
+El notebook titulado IA2Proyecto_EntregaFinal corresponde al notebook que se entregará como trabajo final del proyecto.
 
 En la carpeta de NotebookPresentaciones se conservan los notebooks usados para la creación de las presentaciones 2 y 3, no fueron incluidos para evaluarse, sino para demostrar los que los resultados reportados en los avances 2 y 3 fueron legitimos
 
